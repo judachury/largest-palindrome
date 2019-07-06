@@ -3,10 +3,10 @@
     require_once('.\lib\functions.php');   
 
     //function
-    /* echo microtime(true) . '<br>';
+    echo microtime(true) . '<br>';
     print_r( getLargestPalindromeFromRange(100, 999) );
     echo '<br>' . microtime(true) . '<br>';
-    echo '<hr>'; */
+    echo '<hr>';
 
     //function 2
     echo microtime(true) . '<br>';
